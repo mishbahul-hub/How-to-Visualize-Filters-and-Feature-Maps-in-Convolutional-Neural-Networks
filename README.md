@@ -11,15 +11,6 @@ At its heart, this repository unleashes the unseen: the filters, feature maps, a
 * **Hierarchy of features**: Trace how simple edges evolve into high-level patterns across the layers.
 * **Code walkthrough**: Step-by-step scripts to generate, visualize, and interpret the internal representations of your CNN.
 
-## 🔧 Why It Matters
-
-CNNs aren’t just black boxes — they’re dynamic feature extractors, layer by layer. By peeking behind the curtain:
-
-* You’ll gain confidence in what your network is **actually learning**.
-* You’ll spot quirks, redundancies, or dead filters **early on**, improving model robustness.
-* You’ll deepen your intuition on **how to design smarter architectures**, selecting layers with meaning, not just by trial.
-* You’ll boost your communication with stakeholders by **visualizing model behavior** rather than just metrics.
-
 ## 🚀 How to Use
 
 1. Clone this repository.
